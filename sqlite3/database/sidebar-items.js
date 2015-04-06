@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["database_with_handle",""]],"struct":[["Database","The database connection."]]});

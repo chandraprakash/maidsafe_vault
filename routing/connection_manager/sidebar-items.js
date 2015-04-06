@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Receiver","The receiving end of the channel."]]});
